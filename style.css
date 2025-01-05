@@ -1,0 +1,45 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    display: block;
+    font-size: 15px;
+    padding-right: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: 1px solid #dadada;
+}
+
+button {
+    color: white;
+    border: none;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.box {
+    padding: 50px;
+    border-radius: 40px;
+    border: 1px solid #dadada;
+}
+
+a {
+    color: black !important;
+}
+
+.login {
+    background-color: transparent !important;
+}
+
+p {
+    color: black;
+}
